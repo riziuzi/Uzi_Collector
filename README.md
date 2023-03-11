@@ -3,6 +3,11 @@
   <p>A Python script for collecting and storing data in a specified directory.</p>
 </div>
 
+<p align="center">
+<a href="/LICENSE.md"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"></a>
+<a href="https://www.python.org/downloads/release/python-3110/"><img src="https://img.shields.io/badge/Python-3.11%2B-green.svg" /></a>
+</p>
+
 ## 🎬 Getting Started
 
 To get started, you need to configure two files: `Uzi_configuration.py` and `rizi_spawner.py`.
