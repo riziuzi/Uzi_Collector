@@ -1,2 +1,6 @@
 #ignoring these!
-
+pyvenv.cfg
+/Scripts
+/Lib
+/.idea
+/__pycache__
